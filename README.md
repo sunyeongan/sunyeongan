@@ -3,7 +3,9 @@
 ---
 # Hello SeonYeong !
 
-Hello! I'm SeonYeong An. My interests are Federated Learning in medicine, Brain tumor Segmentation, and Reinforcement Learning. 
+Hello! I'm SeonYeong An. 
+
+My interests are Federated Learning in medicine, Brain tumor Segmentation, and Reinforcement Learning. 
 
 
 ## 💫 Personal Information 💫
@@ -11,7 +13,7 @@ Hello! I'm SeonYeong An. My interests are Federated Learning in medicine, Brain 
 - ### Education
 | Degree   | Period            | School            | Major                                                  | Status      |
 |----------|-------------------|-------------------|--------------------------------------------------------|-------------|
-| Master   | 2023.03 ~         | Hallym University | Computer Engineering                                   | In progress |
+| Master   | 2023.03 ~         | Hallym University | Computer Engineering, AI in Medicine                   | In progress |
 | Bachelor | 2019.02 ~ 2023.02 | Hallym University | Department of Software, College of Information Science | Graduated   |
 
 
@@ -33,13 +35,14 @@ Hello! I'm SeonYeong An. My interests are Federated Learning in medicine, Brain 
 | 2019 | Excellence Award(Gangwon Province Governor's Award))                       | Gangwon Smart City Idea Hackathon |
 
 
-  
+## Social
 
-### Blog 
-- https://seonybob3210.tistory.com
-  
-### Email
-- asy10092@gmail.com 
+| Platform   | Link/Address                       |
+|------------|------------------------------------|
+| Blog       | [Blog](https://seonybob3210.tistory.com) |
+| Email      | asy10092@gmail.com      |
+| LinkedIn   | [LinkedIn Profile](https://www.linkedin.com/in/seonyeong-an-16608728b/) |
+
 ---
 
 
